@@ -1,0 +1,28 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="73.089" height="50.109" viewBox="0 0 73.089 50.109">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Path_540" d="M54.5 16.734C54.5 7.5 46.011 0 35.545 0S16.588 7.5 16.588 16.734H0v31.375h71.089V16.734z" data-name="Path 540" transform="rotate(-90 35.545 35.544)" style="fill:none"/>
+        </clipPath>
+        <style>
+            .prefix__cls-4{fill:none;stroke:#fff;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="prefix__DESK_BLOCKED" transform="rotate(90 35.544 36.545)">
+        <g id="prefix__AVAILABLE" transform="rotate(-90 35.545 35.544)">
+            <path id="prefix__Path_540-2" d="M54.5 16.734C54.5 7.5 46.011 0 35.545 0S16.588 7.5 16.588 16.734H0v31.375h71.089V16.734z" data-name="Path 540" style="stroke:#fff;stroke-width:2px;fill:#1181c2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+        </g>
+        <g id="prefix__Mask_Group_7" data-name="Mask Group 7">
+            <g id="prefix__Group_1476" data-name="Group 1476" transform="translate(0 -14.997)">
+                <path id="prefix__Line_255" d="M0 37.766L54.67 0" class="prefix__cls-4" data-name="Line 255"/>
+                <path id="prefix__Line_256" d="M0 37.766L54.67 0" class="prefix__cls-4" data-name="Line 256" transform="translate(0 11.108)"/>
+                <path id="prefix__Line_257" d="M0 37.766L54.67 0" class="prefix__cls-4" data-name="Line 257" transform="translate(0 21.105)"/>
+                <path id="prefix__Line_258" d="M0 37.766L54.67 0" class="prefix__cls-4" data-name="Line 258" transform="translate(0 32.212)"/>
+                <path id="prefix__Line_259" d="M0 37.766L54.67 0" class="prefix__cls-4" data-name="Line 259" transform="translate(0 43.32)"/>
+                <path id="prefix__Line_260" d="M0 37.766L54.67 0" class="prefix__cls-4" data-name="Line 260" transform="translate(0 54.428)"/>
+                <path id="prefix__Line_261" d="M0 37.766L54.67 0" class="prefix__cls-4" data-name="Line 261" transform="translate(0 64.425)"/>
+                <path id="prefix__Line_262" d="M0 37.766L54.67 0" class="prefix__cls-4" data-name="Line 262" transform="translate(0 75.533)"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+- Get the fork of Graph Editor
+- React wrapper of mxgraph library(javascript)
+- Set SVG background for drawing / Fallback for existing
+- Get mxGraph xml import & export functionality
+- Import the floorplan stencils, paths
+- Update CSS for scroll overflow
+- Undo/Redo functions(Ctrl+z/Ctrl+y)
+- Turn off vertex that connects each other
+- Turn off labelling the mxCell
+- Set icons according to Flexwhere[Look and feel]
+- copy paste on immediate drop
+- Save throttle, 
+
+
+
+
+- Fill/Edit the styles
+- Move front/back of svg icon
+9. Update Graph variable in floorplan.js - doorOpposing,
+2. Export the SVG via API to backend // java layer can take care of this
+4. CRUD operations on icons[Micro frontend, share the x-access-token]
+7, How to integrate the existing SVG Editor with this(floor plan creator)
+ 
